@@ -71,6 +71,7 @@ Jekyll会自动创建一个目录，然后进入这个目录
 
 ### Other Configuration ###
 `_config.yml` 里面有很多配置项，也都可以参考文档进行配置
+
 ## Publish to github-pages ##
 github提供了github-pages服务可以托管各种页面，用户需要首先申请一个特定的repo `username.github.io`, 然后把Jekyll生成的博客目录全部push上去就可以了
 
@@ -81,6 +82,7 @@ github提供了github-pages服务可以托管各种页面，用户需要首先�
 	git push https://github.com/username/username.github.io
 	
 本来以为每次写了文章之后还需要`jekyll build`, 结果好像github自动支持，文章push到repo上后，就会被自动build，非常方便
+
 ## Config DNS ##
 如果你跟我一样是一个顶级域名的话，可以参考这个[文档](https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider/)
 
