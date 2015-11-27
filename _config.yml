@@ -10,7 +10,7 @@ title: pp's world tree Mk.III
 email: pp2moonbird@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is pp's blog. My main focus is Data Analysis, Data visualization. I use Python, Qlikview, QlikSense and Tableau.
-  I will also share games, animations, comic or other interesting stuff.
+  I will also share thoughts on games, animations, comic or other interesting stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://pp2rollingstar.com" # the base hostname & protocol for your site
 github_username:  pp2moonbird
