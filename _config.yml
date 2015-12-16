@@ -17,3 +17,6 @@ github_username:  pp2moonbird
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
