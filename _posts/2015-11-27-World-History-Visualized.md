@@ -18,7 +18,7 @@ QlikSense的主要优点有：
 - Sense开放了前端的接口，现在已经有很多第三方开发的前端的扩展，能够提供额外的可视化功能
 
 上周末，我做出了一个简单的prototype，大致长这个样子：
-![WorldHistory](./image/WorldHistory.png)
+![WorldHistory](image/WorldHistory.png)
 
 基本有以下几个组件：
 
