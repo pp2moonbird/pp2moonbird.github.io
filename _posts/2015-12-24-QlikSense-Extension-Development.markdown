@@ -23,7 +23,7 @@ categories: visualization
 
 其实QlikSense扩展的核心有两部分，一个是`.qext`元数据文件，里面包含了扩展的名称，图标，说明等信息。还有一个是JavaScript脚本文件，这个才是重头戏，负责渲染图形，处理各种事件。
 
-``` javascript
+{% highlight javascript %}
 define( [ /* dependencies */ ],
 	function ( /* returned dependencies as arguments */ ) {
 		'use strict';
@@ -35,7 +35,7 @@ define( [ /* dependencies */ ],
 			}
 		};
 	} );
-```
+{% endhighlight %}
 
 这个就是扩展脚本的整体框架，核心就是`paint`函数，里面有两个重要的参数
 
@@ -67,24 +67,24 @@ define( [ /* dependencies */ ],
 通过以上的知识，可以知道，QlikSense扩展的核心是`paint`函数，在Timeline脚本的284行，作者把qMatrix中的数据，转换成一个dataset，然后赋给`vis.DataSet`，就会调用vis这个第三方可视化库，创建最终的图形。
 
 
-``` javascript
+{% highlight javascript %}
 var dataItems = new vis.DataSet(dataSet);
 var container = document.getElementById(containerId);
 var timeline = new vis.Timeline(container);
 timeline.setOptions(options);
 if (useGroups) timeline.setGroups(groups);
 timeline.setItems(dataItems);
-```
+{% endhighlight %}
 
 构造这个DataSet，使用的是这些数据：
 
-``` javascript
+{% highlight javascript %}
 var dataItem = {
 	id: e[0].qElemNumber,
 	content: e[1].qText,
 	start: dateFromQlikNumber(e[2].qNum)
 };
-```
+{% endhighlight %}
 
 所以，最终，只要修改dateFromQlikNumber，加上我的workaround，把QlikSense中得到的日期时间，减去Offset，就可以让公元前的日期显示为一个负数。
 
