@@ -5,8 +5,7 @@ date : 2015-12-24 21:47:21 +8000
 categories: visualization
 ---
 
-- origin, overview
-- issue
+
 
 上周末，我在[可视化世界历史](http://www.pprollingstar.com/visualization/2015/12/23/World-History-Visualized.html)，主要使用了QlikSense和QlikSense的扩展。然而我遇到了一个问题，不得不深入了解QlikSense扩展的实现原理，从而修改这个插件，满足我的需求。这里记录一下目前对QlikSense扩展开发的认识。
 
