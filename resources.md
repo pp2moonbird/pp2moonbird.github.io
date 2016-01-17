@@ -1,3 +1,9 @@
+---
+layout: page
+title: Resources
+permalink: /resources/
+---
+
 # Resources #
 
 Here I list a few resources that are benefital to me. 
