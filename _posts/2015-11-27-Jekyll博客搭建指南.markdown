@@ -5,7 +5,7 @@ date : 2015-11-27 21:47:21 +8000
 categories: meta
 ---
 
-## Intro ##
+
 我最早的博客在[blogger](http://pp2moonbird.blogspot.com)上，然后你懂的，在墙外很不方便。于是去年买了一个域名，然后在新浪云上搭了一个wordpress。但是新浪云有流量限制，还得做实名身份验证，最后那个博客也弃用了。最近github和markdown用的比较多，想起以前看到阮一峰老师介绍Jekyll和github-pages的[文章](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)，于是就实际操练了一把。总的来说这个solution发布文章很方便，页面速度很快，而且支持markdown，语法高亮，我还是很满意的。不过整个过程中坑还是比较多，这里记录一下。
 
 Github-pages是github的一个服务，可以让用户把网页托管在github上。Jekyll是ruby的一个静态博客生成工具。
