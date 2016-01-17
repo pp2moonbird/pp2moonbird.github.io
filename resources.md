@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-# Resources #
+
 
 Here I list a few resources that are benefital to me. 
 
@@ -12,6 +12,7 @@ Here I list a few resources that are benefital to me.
 
 -  StorkeIt, Hand gesture software on Windows platform
 -  Evernote, Keep my notes and ideas
+-  Everything, search file instantaneously in local file system
 
 ## Browser & Plugins ##
 
