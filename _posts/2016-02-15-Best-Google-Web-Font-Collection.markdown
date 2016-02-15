@@ -11,9 +11,9 @@ categories: design
 对于传达信息的一方来说, 除了文字本身的内容, 文字展现的形式, 诸如字体, 颜色, 大小, 材质, 也会影响到接受者最终对信息的理解. 在这其中, 字体是一个很重要的因素, 因为在文字映入读者眼帘的那一刻, 字体本身所蕴含的意象, 就会在潜移默化中影响读者. 读者可以感受到强劲与温柔, 庄严与调皮, 复古或现代. 
 
 ## 字体的获取 ##
-然而, 当我们打开系统自带的字体列表, 不免感到忧心忡忡, Windows自带的字体, 好像都不怎么好看, 或者, 已经审美疲劳了. 那些专业网站和杂志上的字体, 一看, 好像都是字体公司为他们专门设计的. 难道就没有什么好看的免费字体吗?
+然而, 当我们打开系统自带的字体列表, 不免感到忧心忡忡, Windows自带的字体, 好像都不怎么好看. 而那些专业网站和杂志上的字体, 都是字体公司辛辛苦苦设计出来， 并且收费的. 
 
-天无绝人之路, google提供了一项免费的字体服务, 里面提供了600多种免费字体, 可以随意使用. 进入[Google Font](https://www.google.com/fonts)之后, 你可以根据不同条件搜索字体, 比如衬线, 无衬线. 然后Google会提供即时的预览. 此外, Google还提供这些额外的功能:
+难道就没有什么好看的免费字体吗? 天无绝人之路, google提供了一项免费的字体服务, 里面提供了600多种免费字体, 可以随意使用. 进入[Google Font](https://www.google.com/fonts)之后, 你可以根据不同条件搜索字体, 比如衬线, 无衬线. 然后Google会提供即时的预览. 此外, Google还提供这些额外的功能:
 
 1. 下载字体文件到本地
 2. 提供javascript代码, 让网站引用google提供的web font
@@ -32,11 +32,15 @@ categories: design
 ### Open Sans ###
 Open Sans字体比Arial字体在显示大段文字的效果上好很多, 因为它的字腔更大, 所以字与字之间的更宽, 上下的行距也比较宽. 比Arial宽敞多了. 
 
+下图是用[typecast](www.typecast.com)生成， 左为Arial， 右为Open Sans
+
 ![Arial vs Open Sans]({{ site.url }}/image/arial-vs-opensans.png)
 
 ### Lato ###
 
 Lato也是一款无衬线字体, 它提供了非常丰富的字重的选择, 从细如发丝到非常粗重. 感觉很适合做各种标题
+
+左为Lato-Regular， 右为Open Sans
 
 ![Lato vs Open Sans]({{ site.url }}/image/lato-vs-opensans.png)
 
@@ -48,6 +52,8 @@ Lato也是一款无衬线字体, 它提供了非常丰富的字重的选择, 从
 可以看到Cardo比较纤细, 营造出一种高端, 精致的感觉, 但是在电子屏幕上作为正文显示, 读起来比较吃力. 
 
 Merriweather更粗, 设计师还提供了Ultra Black字重, 作为标题显示显得非常掷地有声.
+
+左为Merriweather， 右为Cardo
 
 ![Merriweather vs Cardo]({{ site.url }}/image/merriweather-vs-cardo.png)
 
