@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "D3入门教程-环境搭建和基本选择"
-date : 2016-02-28 14:47:21 +8000
+date : 2016-02-27 14:47:21 +8000
 categories: visualization
 ---
 
