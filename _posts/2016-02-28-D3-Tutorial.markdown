@@ -1,0 +1,68 @@
+---
+layout: post
+title: "D3入门教程-环境搭建和基本选择"
+date : 2016-02-28 14:47:21 +8000
+categories: visualization
+---
+
+D3(Data Driven Documents)是一个流行的Javascript数据可视化库, 这里来简单的介绍一些D3的基本用法.
+
+## D3环境搭建
+
+首先我们用nodejs来搭建一个简单的web应用, 其实任何语言和框架都可以, 因为d3的基本操作只需要html, js和css就够了.
+
+首先用express搭建一个脚手架, 并安装依赖的包
+
+	express d3Tutorial
+	npm install
+
+然后在`\public`中创建一个`pages`文件夹, 创建一个脚手架页面, 就可以了, 可以参照skelton.html
+
+启动nodejs, 然后访问[http://localhost:3000/pages/skelton.html](http://localhost:3000/pages/skelton.html)
+
+	npm start
+
+## D3的选择操作 ##
+
+d3的第一重要方法是它的选择操作, 选择操作可以通过DOM的语法来选择对应的页面元素, 然后进行一些操作
+
+### d3.select()
+
+比如说在`<script>`中增加:
+
+	d3.select("body")
+		.append("div")
+		.text("hello d3");
+
+### d3.selectAll() ###
+
+select方法选择的是第一个元素, 如果有一系列数据,然后要绑定到一系列页面元素上的话就需要使用selectAll()
+
+	d3.select("body")
+	        .selectAll("binding")
+	        .data(simpleArray)
+	        .enter()
+	        .append("div")
+	        .text(function(d) {return d;});
+
+这段代码稍微复杂一些. 
+
+- 首先, 它获取了`body`这个对象
+- 然后去选择`binding`对象, 但是这些对象还没有创建出来, 不过这没有关系, 后面会有解释
+- `data()`方法把这些还没有创建的对象和`simpleArray`关联(join)了起来
+- `enter()`方法会创建那些数据已经存在, 但展现层还没有存在的对象
+- 最后我们给这些对象创建了div, 并且添加了文本内容
+- 文本内容会遍历数组中的每一个元素, 然后返回其中的值
+
+### Data Join的概念 ###
+
+上面的那个例子其实就揭露了D3的最重要的一个概念, data join, 这个join并不是数据库sql操作中表和表的join, 而是数据(data)和展现层(visual)的join. 之所以借用join这个概念, 可能是因为d3的设计也是一种声明式编程方法(Declarative Programming), 而不是用for循环来指定创建多少个对象的指令式编程
+
+参考这两个链接
+
+- https://bost.ocks.org/mike/join/
+- https://bost.ocks.org/mike/selection/
+
+
+
+
