@@ -5,7 +5,8 @@ date : 2016-02-27 14:47:21 +8000
 categories: visualization
 ---
 
-D3(Data Driven Documents)是一个流行的Javascript数据可视化库, 这里来简单的介绍一些D3的基本用法.
+D3(Data Driven Documents)是一个流行的Javascript数据可视化库, 这里来简单的介绍一些D3的基本用法. 代码我都放在github repo
+上了:[https://github.com/pp2moonbird/d3Tutorial](https://github.com/pp2moonbird/d3Tutorial)
 
 ## D3环境搭建
 
@@ -18,7 +19,7 @@ D3(Data Driven Documents)是一个流行的Javascript数据可视化库, 这里�
 
 然后在`\public`中创建一个`pages`文件夹, 创建一个脚手架页面, 就可以了, 可以参照skelton.html
 
-启动nodejs, 然后访问[http://localhost:3000/pages/skelton.html](http://localhost:3000/pages/skelton.html)
+启动nodejs, 然后访问[http://localhost:3000/pages/skelton.html](http://localhost:3000/pages/skeleton.html)
 
 	npm start
 
@@ -60,8 +61,8 @@ select方法选择的是第一个元素, 如果有一系列数据,然后要绑�
 
 参考这两个链接
 
-- https://bost.ocks.org/mike/join/
-- https://bost.ocks.org/mike/selection/
+- [https://bost.ocks.org/mike/join/](https://bost.ocks.org/mike/join/)
+- [https://bost.ocks.org/mike/selection/](https://bost.ocks.org/mike/selection/)
 
 
 
