@@ -13,6 +13,7 @@ Firefox和Pocket都是我很喜欢的装机必备软件, 所以都没有注意�
 我找到的方法是使用[Stylish](https://addons.mozilla.org/en-us/firefox/addon/stylish/)这个Firefox插件来调整阅读模式的样式.
 
 具体的方法如下:
+
 1. 安装Stylish插件
 2. 创建一个新的配置
 3. 代码如下
