@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "让Firefox阅读模式更上一层楼"
-date : 2016-05-02 09:47:21 +8000
+date : 2016-05-04 09:47:21 +8000
 categories: hack
 ---
 
