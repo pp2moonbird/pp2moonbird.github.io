@@ -6,7 +6,7 @@ permalink: /resources/
 
 
 
-Here I list a few resources that are benefital to me. 
+Here I list a few resources that are very helpful. Thanks to their creators. 
 
 ## Productivity
 
