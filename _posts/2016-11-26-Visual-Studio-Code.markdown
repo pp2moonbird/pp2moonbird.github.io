@@ -12,7 +12,7 @@ Visual Studio Code是微软发布的一个轻量级代码编辑器, 我最早是
 VSCode跨平台, 而且安装包很小, 40MB左右, 安装完成打开后, 第一眼看到的界面就让人觉得非常酷炫. 默认是纯黑的Dark Theme, 配有一些蓝色的配色. 整体界面很简洁, 左侧有五个大的按钮可以打开左侧的功能面板, 分别是资源管理器, 全局搜索, git版本控制, 调试器和插件. 
 系统自带的代码高亮配色也非常美观. 
 
-![https://code.visualstudio.com/home/home-screenshot-win-lg.png]
+![visual studio screenshot](https://code.visualstudio.com/home/home-screenshot-win-lg.png)
 
 # 编程
 

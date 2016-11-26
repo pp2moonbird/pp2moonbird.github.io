@@ -34,7 +34,7 @@ Here I list a few resources that are benefital to me.
 
 ## Design ##
 
-- [Google Fonts](https://www.google.com/fonts), fonts
+- [Google Fonts](https://www.google.com/fonts), fonts, [my recommendations](http://www.pprollingstar.com/design/2016/02/14/Best-Google-Web-Font-Collection.html)
 - [Adobe Color CC](https://color.adobe.com), colors
 - [IconMonstr](http://iconmonstr.com/), icons
 
@@ -53,3 +53,4 @@ Here I list a few resources that are benefital to me.
 
 - Notepad++
 - MarkdownPad2, markdown editor on windows platform
+- [Visual Studio Code](https://code.visualstudio.com/), [my review](http://www.pprollingstar.com/tool/2016/11/26/Visual-Studio-Code.html)
