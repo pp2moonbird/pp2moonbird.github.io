@@ -28,6 +28,7 @@ VSCode对git的支持做的很好, 首先, 左侧的Git面板覆盖了大多数�
 # 其他功能
 
 VSCode还有一些比较便利的功能
+
 - Markdown 预览
 - 写HTML的时候可以使用Emmet(ZenCoding)的快速填充功能
 - 项目文件夹全局搜索, 支持正则表达式
