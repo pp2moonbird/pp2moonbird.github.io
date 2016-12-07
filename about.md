@@ -23,3 +23,16 @@ This site is powered by [Jekyll](http://jekyllrb.com/) and [github-pages](https:
     </li>
   {% endfor %}
 </ul>
+
+{% for category in site.categories %}
+<li><a name="{{ category | first}}"> {{category | first}}</a>
+  <ul>
+  {% for posts in category %}
+    {% for post in posts %}
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    {% endfor%}
+  {% endfor %}
+  </ul>
+</li>
+
+{% endfor %}
