@@ -29,8 +29,8 @@ This site is powered by [Jekyll](http://jekyllrb.com/) and [github-pages](https:
   <ul>
   {% for posts in category %}
     {% for post in posts %}
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    {% endfor%}
+      <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+    {% endfor %}
   {% endfor %}
   </ul>
 </li>
