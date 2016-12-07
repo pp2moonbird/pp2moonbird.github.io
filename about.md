@@ -25,14 +25,15 @@ This site is powered by [Jekyll](http://jekyllrb.com/) and [github-pages](https:
 </ul>
 
 {% for category in site.categories %}
-<h4><a name="{{ category | first}}"> {{category | first}}</a>
-  <ul class="post-list">
+<h4>
+  <a name="{{ category | first}}"> {{category | first}}</a>
+  <ul>
   {% for posts in category %}
     {% for post in posts %}
       {% if post.url %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link"  href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
       {% endif %}
     {% endfor %}
