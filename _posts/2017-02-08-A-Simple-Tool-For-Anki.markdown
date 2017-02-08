@@ -51,6 +51,8 @@ anki本身自带比较简单的卡片编辑功能，但是基本算是纯文本�
 
 点击deck的导出按钮后，这个工具会创建一个csv文件到`\data`目录下面，如果你想修改导出的文件夹位置，可以修改`\config\config.txt`
 
+导入到anki的时候，请勾选“允许在字段中使用HTML”，这样markdown的效果就能被正确显示了。
+
 ![AdvancedMode]({{ site.url }}/image/anki-html.png)
 
 ## 感谢
