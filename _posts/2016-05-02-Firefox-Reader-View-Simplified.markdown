@@ -52,10 +52,10 @@ categories: hack
 以下是对比图
 
 修改Firefox阅读模式链接样式前:
-![WorldHistory]({{ site.url }}/image/Firefox-reader-view-before.png)
+![WorldHistory]({{ site.url }}/images/Firefox-reader-view-before.png)
 
 修改Firefox阅读模式链接样式后:
-![WorldHistory]({{ site.url }}/image/Firefox-reader-view-after.png)
+![WorldHistory]({{ site.url }}/images/Firefox-reader-view-after.png)
 
 # 总结
 通过Stylish插件, 弱化了Firefox阅读模式的超链接显示效果, 提升了阅读维基百科时的体验.

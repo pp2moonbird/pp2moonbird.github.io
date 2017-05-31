@@ -30,22 +30,22 @@ d3的第一重要方法是它的选择操作, 选择操作可以通过DOM的语�
 ### d3.select()
 
 比如说在`<script>`中增加:
-
-	d3.select("body")
-		.append("div")
-		.text("hello d3");
-
+{%highlight javascript%}
+d3.select("body")
+	.append("div")
+	.text("hello d3");
+{%endhighlight%}
 ### d3.selectAll() ###
 
 select方法选择的是第一个元素, 如果有一系列数据,然后要绑定到一系列页面元素上的话就需要使用selectAll()
-
-	d3.select("body")
-		.selectAll("binding")
-		.data(simpleArray)
-		.enter()
-		.append("div")
-		.text(function(d) {return d;});
-
+{%highlight javascript%}
+d3.select("body")
+	.selectAll("binding")
+	.data(simpleArray)
+	.enter()
+	.append("div")
+	.text(function(d) {return d;});
+{%endhighlight%}
 这段代码稍微复杂一些. 
 
 - 首先, 它获取了`body`这个对象

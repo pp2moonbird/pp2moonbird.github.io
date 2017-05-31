@@ -1,22 +1,93 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+title:            pp's world tree Mk.III
+description:      pp's blog
 
-# Site settings
-title: pp's world tree Mk.III
-email: pp2moonbird@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  This is pp's blog. My main focus is Data Analysis, Data visualization. I use Python, Qlikview, QlikSense and Tableau.
-  I will also share thoughts on games, animations, comic or other interesting stuff.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.pprollingstar.com" # the base hostname & protocol for your site
-github_username:  pp2moonbird
+# put your disqus here
+disqus_shortname:
+reading_time:     false # if true, shows the estimated reading time for a post
+words_per_minute: 200
+logo:             images/logo.png # logo visible in the topbar
+excerpt_separator: <!--more-->
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
 
-# Build settings
-markdown: kramdown
+url: http://www.pprollingstar.com
 
-gems:
-  - jekyll-sitemap
+# draw your top menu here
+# each item must have a title and a url.
+#   To list post categories. use type: 'categories'
+#   To create sub categories. add a submenu item
+# See the example
+menu:
+  - title: 'Home'
+    url: '/'
+  - title: 'About Me'
+    url: '/about/'
+  - title: 'Resources'
+    url: '/resources/'
+  - title: 'Categories'
+    url: '/categories'
+    type: 'categories'
+    url: '/categories/'
+
+# Owner/author information
+owner:
+  name:           pp
+  site:           http://www.pprollingstar.com
+  avatar:         images/avatar.png
+  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  # Twitter nick for use in Twitter cards and follow button.
+  twitter: pp2moonbird # if no twitter in this config, the twitter follow button will be removed
+  # GitHub nick for use in follow button in author block.
+  github: pp2moonbird
+
+# Twitter account associated with the site if different from owner/author twitter account.
+# Used in Twitter cards.
+twitter:
+
+# Social networking links used in author block underneath posts. Update and remove as you like.
+social:
+  - title: "github"
+    url: "https://github.com/pp2moonbird"
+
+# Background image to be tiled on all pages
+background:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-57609998-1
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    China/Beijing
+locale:      zh_CN
+future:      true
+highlighter: rouge
+markdown:    kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+# Amount of post to show on home page
+paginate: 5
+
+# if true, shows the floatting share buttons
+float_share: true
+
+# Octopress
+# Default extensions
+post_ext: md
+page_ext: md
+# Found in _templates/
+post_layout: post
+page_layout: page
+# Format titles with titlecase?
+titlecase: true
+
+include: [".htaccess"]
+exclude: ["demo/*", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+gems: [jekyll-paginate]
+theme: neo-hpstr-jekyll-theme
