@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
+permalink: /about2/
 ---
 
 大家好，我是pp，这里是我的博客。
