@@ -84,10 +84,10 @@ BBR-TCP是google研究出来的TCP阻塞算法，开启之后有明显的性能�
 
 但点开branch之后会发现其实这只是一个伪装的分支
 
-![ss git branch]({{ site.url }}/images/ss-git-branch.png)
+![ss git branch]({{ site.url }}/images/ss-branch.png)
 
 第一次看到的时候笑喷了。
 
 # 总结
 
-以上就是安装，使用和优化shadowsocks的一些经验。最近多说也关了，disqus太重懒得装，欢迎来twitter讨论。
+以上就是安装，使用和优化shadowsocks的一些经验。最近评论服务多说关了，disqus太重懒得装，欢迎来[twitter](https://twitter.com/pp2moonbird/status/883884549922365440)讨论吧。
