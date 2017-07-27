@@ -158,4 +158,4 @@ Bioware是欧美RPG的巨头
 
 # 全部榜单
 
-<iframe src="https://public.tableau.com/views/IGNTop100RPGs/rpg?:showVizHome=no&:embed=true" frameborder="0" height="800px" width="90%"></iframe>
+<iframe src="https://public.tableau.com/views/IGNTop100RPGs/rpg?:showVizHome=no&:embed=true" frameborder="0" height="600px" width="100%"></iframe>
