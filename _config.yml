@@ -34,7 +34,7 @@ owner:
   name:           pp
   site:           http://www.pprollingstar.com
   avatar:         images/avatar.png
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            Discovering, Thinking and Sharing
   # Twitter nick for use in Twitter cards and follow button.
   twitter: pp2moonbird # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
