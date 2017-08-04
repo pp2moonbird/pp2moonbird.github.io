@@ -14,7 +14,8 @@ This site is powered by [Jekyll](http://jekyllrb.com/) and [github-pages](https:
 
 {% for category in site.categories %}
 <h4>
-  <a name="{{ category | first}}"> {{category | first}}</a>
+  <div id="{{ category | first}}"> {{category | first}}</div>
+</h4>
   <ul>
   {% for posts in category %}
     {% for post in posts %}
@@ -27,6 +28,6 @@ This site is powered by [Jekyll](http://jekyllrb.com/) and [github-pages](https:
     {% endfor %}
   {% endfor %}
   </ul>
-</h4>
+
 
 {% endfor %}
