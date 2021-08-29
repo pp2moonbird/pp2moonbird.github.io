@@ -22,7 +22,7 @@ title: pp's world tree Mk.III
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   pp's blog
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "pprollingstar.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pp2moonbird
 github_username:  pp2moonbird
