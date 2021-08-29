@@ -2,7 +2,7 @@
 layout: post
 title: "让Firefox阅读模式更上一层楼"
 date : 2016-05-04 09:47:21 +8000
-categories: hack
+categories: 设计
 ---
 
 
@@ -32,6 +32,7 @@ categories: hack
 
 新的stylish配置:
 
+```css
     @namespace url(http://www.w3.org/1999/xhtml);
 
     @-moz-document url-prefix("about:reader?") {
@@ -45,7 +46,7 @@ categories: hack
         }
 
     }
-
+```
 
 我去掉了链接的下划线, 同时降低了链接的字体颜色的亮度和饱和度, 让链接不再那么出挑.
 
