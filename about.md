@@ -21,7 +21,7 @@ This site is powered by [Jekyll](http://jekyllrb.com/) and [github-pages](https:
     {% for post in posts %}
       {% if post.url %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
       {% endif %}

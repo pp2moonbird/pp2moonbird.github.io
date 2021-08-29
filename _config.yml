@@ -1,93 +1,94 @@
-title:            pp's world tree Mk.III
-description:      pp's blog
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-# put your disqus here
-disqus_shortname:
-reading_time:     false # if true, shows the estimated reading time for a post
-words_per_minute: 200
-logo:             images/logo.png # logo visible in the topbar
-excerpt_separator: <!--more-->
-# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
-# When testing locally leave blank or use http://localhost:4000
+title: pp's world tree Mk.III
+email: ""
+description: >- # this means to ignore newlines until "baseurl:"
+  pp's blog
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.pprollingstar.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: pp2moonbird
+github_username:  pp2moonbird
 
-url: https://www.pprollingstar.com
+# Build settings
+theme: jekyll-theme-persephone
+plugins:
+  - jekyll-feed
 
-# draw your top menu here
-# each item must have a title and a url.
-#   To list post categories. use type: 'categories'
-#   To create sub categories. add a submenu item
-# See the example
-menu:
-  - title: 'Home'
-    url: '/'
-  - title: 'About Me'
-    url: '/about/'
-  - title: 'Resources'
-    url: '/resources/'
-  - title: 'Categories'
-    url: '/categories'
-    type: 'categories'
-    url: '/categories/'
+# # Your site's logo. Will be shown on the left top of your page.
+logo: /favicon.png
+# # If the images of our blog are stored in an external cloud. You can use the jekyll-img-prefix plugin and set your images' base URL here.
+# img_prefix: https://your-img-cdn.com
+# # The RSS link of your blog.
+rss: "/feed.xml"
+layout: blog
 
-# Owner/author information
-owner:
-  name:           pp
-  site:           http://www.pprollingstar.com
-  avatar:         images/avatar.png
-  bio:            Discovering, Thinking and Sharing
-  # Twitter nick for use in Twitter cards and follow button.
-  twitter: pp2moonbird # if no twitter in this config, the twitter follow button will be removed
-  # GitHub nick for use in follow button in author block.
-  github: pp2moonbird
+# # The followings are settings for displays of your blog.
+theme_setting:
+#   # The slides count in the slides layout. Default is 4.
+#   slides_count: 5
+#   # The ← back URL on the top of your post page. Default is your site's home page.
+   blog_page: "blog/index.md"
+#   # The URL on your name on the bottom of your post and page. Default is your site's home page.
+   about_page: "about.md"
+#   #  The URL of the menu icon(which has three black lines). Will be shown on the slides/book/chapter layouts It won't be shown if blank.
+   archive_page: "archive.md"
+#   # The nav links on the top right of home/page/post/blog layout. You can set a local page(by setting a layout's path) or and external link ( both title and url are required) here.
+   nav_pages:
+     - "about.md"
+#     -
+#       title: "External Link Title"
+#       url: "https://your-external-link.com"
+#   # Every default value in the following settings is false. You can set them globally here or separately in a single post/page/chapter.
+   code: true # Code highlight.
+#   math: true # Mathjax
+#   mermaid: true # Mermaid
+#   #  Locales of this theme.
+#   lang:
+#     category_all: All # The first tag in the categories bar on the blog layout page. By clicking it all of your posts will be shown. Default is 'All'.
+#     blog_title: Blog # The text of ← back url on the top of the post layout.  Default is 'Home'.
+#     # The locales of the comment controls.
+#     comment:
+#       user: "昵称"
+#       email: "邮箱"
+#       url: "链接"
+#       message: "说点什么吧..."
+#       reply: "回复"
 
-# Twitter account associated with the site if different from owner/author twitter account.
-# Used in Twitter cards.
-twitter:
 
-# Social networking links used in author block underneath posts. Update and remove as you like.
-social:
-  - title: "github"
-    url: "https://github.com/pp2moonbird"
-
-# Background image to be tiled on all pages
-background:
-
-# Analytics and webmaster tools stuff goes here
-google_analytics: UA-57609998-1
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    China/Beijing
-locale:      zh_CN
-future:      true
-highlighter: rouge
-markdown:    kramdown
-sass:
-  sass_dir: _sass
-  style: compressed
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
-
-# Amount of post to show on home page
-paginate: 5
-
-# if true, shows the floatting share buttons
-float_share: true
-
-# Octopress
-# Default extensions
-post_ext: md
-page_ext: md
-# Found in _templates/
-post_layout: post
-page_layout: page
-# Format titles with titlecase?
-titlecase: true
-
-include: [".htaccess"]
-exclude: ["demo/*", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
-gems: ["jekyll-paginate", "jekyll-sitemap"]
-theme: neo-hpstr-jekyll-theme
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
