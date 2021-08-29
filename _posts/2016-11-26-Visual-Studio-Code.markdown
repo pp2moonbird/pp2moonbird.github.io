@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Visual Studio Code 轻便好用的代码编辑器"
+title: "VSCode-轻便好用的代码编辑器"
 date : 2016-11-26 08:47:21 +8000
-categories: tool
+categories: 工具
 ---
 
 Visual Studio Code是微软发布的一个轻量级代码编辑器, 我最早是在HackerNews上看到发布新版本的帖子, 然后就下载下了尝尝鲜. 最近正好在写一个Vuejs的weekend project, 发现用VSCode写小型项目非常好用, 使用的过程中发现VSCode越来越多的优点. 

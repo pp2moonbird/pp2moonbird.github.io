@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "King of The Road"
+title: "《极品飞车14》-King of The Road"
 date : 2016-11-27 08:47:21 +8000
-categories: game
+categories: 游戏
 ---
 
 "King of The Road" 是极品飞车14代热力追踪重制版车手生涯倒数第二条赛道, 也是最后一条竞速赛带, 玩家可以选择柯尼塞格CCRX对阵布加提威龙. 

@@ -2,7 +2,7 @@
 layout: post
 title: "Shadowsocks的安装与优化"
 date : 2017-07-09 08:47:21 +8000
-categories: tool
+categories: 工具
 ---
 
 今天来介绍一下自建Shadowsocks服务器和优化的方法。Shadowsocks是一款优秀的开源翻墙工具，自建shadowsocks服务器比起托管的vpn服务，感觉更安全，更有折腾的成就感。此外，通过BBR-TCP算法优化之后能够流畅的看720p的youtube视频（见优化部分）。

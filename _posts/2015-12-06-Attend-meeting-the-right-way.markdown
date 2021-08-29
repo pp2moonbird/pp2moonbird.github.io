@@ -2,7 +2,7 @@
 layout: post
 title:  "开会的正确姿势"
 date:   2015-12-06 23:20:29 +0800
-categories: communication
+categories: 方法论
 ---
 
 最近开始了一个新项目，需要频繁的密集进行开会。这里来总结一些开会的经验和教训，让会议更加高效，节约每个与会者的时间和生命。

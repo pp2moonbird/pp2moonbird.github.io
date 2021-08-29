@@ -2,7 +2,7 @@
 layout: post
 title: "为什么我觉得iPad是2021年最佳生产力工具？"
 date : 2021-07-17 17:00:00 +8000
-categories: productivity
+categories: 工具
 ---
 
 （虽然贫穷的我没有买妙控键盘。）

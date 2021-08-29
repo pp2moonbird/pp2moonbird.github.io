@@ -2,7 +2,7 @@
 layout: post
 title: "读《我的朋友马基雅维利》"
 date : 2016-12-07 20:47:21 +8000
-categories: history
+categories: 政治
 ---
 
 尼可罗·马基雅维利，文艺复兴时期意大利弗洛伦萨的思想家, 著有《李维论》，《君主论》等著作。

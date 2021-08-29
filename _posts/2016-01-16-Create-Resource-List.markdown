@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "我整理的资源列表"
+title: "整理的资源列表"
 date : 2016-01-17 22:47:21 +8000
-categories: meta
+categories: 方法论
 ---
 
 2015年末尾的时候，我在搜索工程师文化的时候，找到这么一篇[Open Culture Manifesto](https://openculturemanifesto.org/)，在宣言的作者Martin的自我介绍里，有他自己整理的一些不错的[软件开发的资源列表](https://martinbuberl.com/resources/)。这让我想起以前看到的一个数据可视化的博客的作者，也在自己的个人网站中列出了很多[关于数据可视化的资源](http://policyviz.com/resources/design-and-code-tools/)。

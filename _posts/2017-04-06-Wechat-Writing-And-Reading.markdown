@@ -2,7 +2,7 @@
 layout: post
 title: "微信，写作与阅读"
 date : 2017-04-06 20:47:21 +8000
-categories: thought
+categories: 产品
 ---
 
 

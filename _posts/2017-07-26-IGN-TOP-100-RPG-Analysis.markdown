@@ -2,7 +2,7 @@
 layout: post
 title: "IGN百大RPG榜单分析"
 date : 2017-07-26 08:47:21 +8000
-categories: game
+categories: 数据可视化
 ---
 
 # IGN百大RPG榜单介绍

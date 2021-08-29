@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "《Web信息架构》读后感"
+title: "读《Web信息架构》"
 date : 2016-01-18 20:47:21 +8000
-categories: meta
+categories: 设计
 ---
 
 ![Web信息架构——设计大型网站（第3版）](http://img6.douban.com/mpic/s27132765.jpg)

@@ -2,7 +2,7 @@
 layout: post
 title: "D3入门教程-环境搭建和基本选择"
 date : 2016-02-27 14:47:21 +8000
-categories: visualization
+categories: 数据可视化
 ---
 
 D3(Data Driven Documents)是一个流行的Javascript数据可视化库, 这里来简单的介绍一些D3的基本用法. 代码我都放在github repo

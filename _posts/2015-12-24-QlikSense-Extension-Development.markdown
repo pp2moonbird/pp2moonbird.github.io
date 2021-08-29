@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "笔记：开发QlikSense扩展"
+title: "开发QlikSense扩展"
 date : 2015-12-24 21:47:21 +8000
-categories: visualization
+categories: 数据可视化
 ---
 
 

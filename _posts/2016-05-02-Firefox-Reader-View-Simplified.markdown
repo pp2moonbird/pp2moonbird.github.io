@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "让Firefox阅读模式更上一层楼"
+title: "优化Firefox阅读模式"
 date : 2016-05-04 09:47:21 +8000
 categories: 设计
 ---

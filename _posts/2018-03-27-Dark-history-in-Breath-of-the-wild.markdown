@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "旷野之息 黑历史篇"
+title: "《塞尔达传说旷野之息》黑历史篇"
 date : 2018-03-27 21:47:21 +8000
-categories: game
+categories: 游戏
 ---
 
 

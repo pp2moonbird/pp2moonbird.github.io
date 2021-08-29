@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "造轮子：Anki卡片输入工具"
+title: "造轮子-Anki卡片输入工具"
 date : 2017-02-08 20:47:21 +8000
-categories: meta
+categories: 工具
 ---
 
 

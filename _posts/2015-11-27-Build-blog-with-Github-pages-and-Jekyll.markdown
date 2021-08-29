@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Jekyll博客搭建指南"
+title: "使用Jekyll搭建博客"
 date : 2015-11-27 21:47:21 +8000
-categories: meta
+categories: 工具
 ---
 
 
