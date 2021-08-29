@@ -84,7 +84,7 @@ BBR-TCP是google研究出来的TCP阻塞算法，开启之后有明显的性能�
 
 但点开branch之后会发现其实这只是一个伪装的分支
 
-![ss git branch]({{ site.url }}/images/ss-branch.png)
+![ss git branch]({{ site.github.url }}/images/ss-branch.png)
 
 第一次看到的时候笑喷了。
 

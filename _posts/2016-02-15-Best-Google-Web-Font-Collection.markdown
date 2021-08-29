@@ -34,7 +34,7 @@ Open Sans字体比Arial字体在显示大段文字的效果上好很多, 因为�
 
 下图是用[typecast](www.typecast.com)生成， 左为Arial， 右为Open Sans
 
-![Arial vs Open Sans]({{ site.url }}/images/arial-vs-opensans.png)
+![Arial vs Open Sans]({{ site.github.url }}/images/arial-vs-opensans.png)
 
 ### Lato ###
 
@@ -42,7 +42,7 @@ Lato也是一款无衬线字体, 它提供了非常丰富的字重的选择, 从
 
 左为Lato-Regular， 右为Open Sans
 
-![Lato vs Open Sans]({{ site.url }}/images/lato-vs-opensans.png)
+![Lato vs Open Sans]({{ site.github.url }}/images/lato-vs-opensans.png)
 
 ## 衬线 ##
 衬线字体(Serif), 主要是指带爪形装饰的西文字体. 最常见的就是Times New Roman这种字体了. 因为最初印刷行业都是使用衬线字体来印刷书籍的, 所以使用衬线字体会给人带来一种复古, 优雅的感觉. 但是在数码时代, 衬线字体因为过多的曲线, 不太适合字体大小较小的正文. 
@@ -55,7 +55,7 @@ Merriweather更粗, 设计师还提供了Ultra Black字重, 作为标题显示�
 
 左为Merriweather， 右为Cardo
 
-![Merriweather vs Cardo]({{ site.url }}/images/merriweather-vs-cardo.png)
+![Merriweather vs Cardo]({{ site.github.url }}/images/merriweather-vs-cardo.png)
 
 ## 总结 ##
 

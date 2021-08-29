@@ -27,16 +27,16 @@ categories: game
 
 日本行政机关组织架构图, 参考[日本行政机关日文版维基百科](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%A1%8C%E6%94%BF%E6%A9%9F%E9%96%A2)
 
-![日本行政机关组织架构图]({{ site.url }}/images/godzilla/godzilla1.png)
+![日本行政机关组织架构图]({{ site.github.url }}/images/godzilla/godzilla1.png)
 
 片中执政党组织架构图
 
-![片中执政党组织架构图]({{ site.url }}/images/godzilla/godzilla2.png)
+![片中执政党组织架构图]({{ site.github.url }}/images/godzilla/godzilla2.png)
 
 日本军队组织架构图
 
-![日本军队组织架构图]({{ site.url }}/images/godzilla/godzilla3.png)
+![日本军队组织架构图]({{ site.github.url }}/images/godzilla/godzilla3.png)
 
 巨大不明生物特设灾害对策本部组织架构图
 
-![巨大不明生物特設災害対策本部]({{ site.url }}/images/godzilla/godzilla4.png)
+![巨大不明生物特設災害対策本部]({{ site.github.url }}/images/godzilla/godzilla4.png)

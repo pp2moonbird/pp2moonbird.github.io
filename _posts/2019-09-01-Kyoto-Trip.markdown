@@ -17,31 +17,31 @@ categories: trip
 
 乘公交来到下鸭神社，神社内部都是碎石子，熊孩子也跑不快。整个神社不大，不过查了一下，在日本神社里的地位还是很重要的。神社门口已经挂上了令和元年的牌子。
 
-![]({{ site.url }}/images/kyoto/1下鸭神社.jpg)
+![]({{ site.github.url }}/images/kyoto/1下鸭神社.jpg)
 
 神社建筑结构细节
 
-![]({{ site.url }}/images/kyoto/1下鸭神社建筑细节.jpg)
+![]({{ site.github.url }}/images/kyoto/1下鸭神社建筑细节.jpg)
 
 沿着神社参拜道路返回，参道附近就是纠之森，在电影《春宵苦短》里也是重要的场景。
 
-![1下鸭神社2]({{ site.url }}/images/kyoto/1下鸭神社2.jpg)
+![1下鸭神社2]({{ site.github.url }}/images/kyoto/1下鸭神社2.jpg)
 
-![]({{ site.url }}/images/kyoto/1下鸭神社纠之森参道.jpg)
+![]({{ site.github.url }}/images/kyoto/1下鸭神社纠之森参道.jpg)
 
 因为是日本连休十天的黄金周，所以本来就很受欢迎的鸭川人气更旺了。大家在鸭川上散步、聚会、运动，分外热闹。
 
-![]({{ site.url }}/images/kyoto/1鸭川s.jpg)
+![]({{ site.github.url }}/images/kyoto/1鸭川s.jpg)
 
-![]({{ site.url }}/images/kyoto/1鸭川骑车.jpg)
+![]({{ site.github.url }}/images/kyoto/1鸭川骑车.jpg)
 
 左下的少年在练习小号
 
-![]({{ site.url }}/images/kyoto/1鸭川小号少年.jpg)
+![]({{ site.github.url }}/images/kyoto/1鸭川小号少年.jpg)
 
 晚饭在京都站地下广场porta解决，人山人海，排队等了很久。
 
-![]({{ site.url }}/images/kyoto/1京都站.jpg)
+![]({{ site.github.url }}/images/kyoto/1京都站.jpg)
 
 # day2 岚山篇
 
@@ -49,45 +49,45 @@ categories: trip
 
 小苔寺的苔可能因为连日的晴天有点蔫，不过新生长的枫叶很好看。
 
-![]({{ site.url }}/images/kyoto/2小苔寺.jpg)
+![]({{ site.github.url }}/images/kyoto/2小苔寺.jpg)
 
-![]({{ site.url }}/images/kyoto/2小苔寺枫叶.jpg)
+![]({{ site.github.url }}/images/kyoto/2小苔寺枫叶.jpg)
 
-![]({{ site.url }}/images/kyoto/2小苔寺苔藓.jpg)
+![]({{ site.github.url }}/images/kyoto/2小苔寺苔藓.jpg)
 
 大觉寺从游览的角度，感觉一般，看了一下维基百科，其政治历史地位比较重要。
 
-![]({{ site.url }}/images/kyoto/2大觉寺.jpg)
+![]({{ site.github.url }}/images/kyoto/2大觉寺.jpg)
 
 这片池塘春天的时候据说很美
 
-![]({{ site.url }}/images/kyoto/2大觉寺池塘.jpg)
+![]({{ site.github.url }}/images/kyoto/2大觉寺池塘.jpg)
 
 游完大觉寺，时间还很早，便依照《京都一周徒步地图-西山（岚山）》开始徒步。
 
 总的来说，西山的徒步线路还是比较轻松的，而且景色也很好看，有点像神农架的风景。
 
-![]({{ site.url }}/images/kyoto/2岚山徒步.jpg)
+![]({{ site.github.url }}/images/kyoto/2岚山徒步.jpg)
 
-![]({{ site.url }}/images/kyoto/2岚山徒步2.jpg)
+![]({{ site.github.url }}/images/kyoto/2岚山徒步2.jpg)
 
-![]({{ site.url }}/images/kyoto/2岚山徒步3.jpg)
+![]({{ site.github.url }}/images/kyoto/2岚山徒步3.jpg)
 
-![]({{ site.url }}/images/kyoto/2岚山徒步4.jpg)
+![]({{ site.github.url }}/images/kyoto/2岚山徒步4.jpg)
 
 徒步路线的末端，在岚山上看到了70年代设立的周恩来总理诗碑，那个时候应该是两国刚刚建交的蜜月期。
 
-![]({{ site.url }}/images/kyoto/2岚山周总理.jpg)
+![]({{ site.github.url }}/images/kyoto/2岚山周总理.jpg)
 
 最后在渡月桥结束了徒步
 
-![]({{ site.url }}/images/kyoto/2渡月桥.jpg)
+![]({{ site.github.url }}/images/kyoto/2渡月桥.jpg)
 
 顺便贴一些岚山的日常照片
 
-![]({{ site.url }}/images/kyoto/2岚山日常.jpg)
+![]({{ site.github.url }}/images/kyoto/2岚山日常.jpg)
 
-![]({{ site.url }}/images/kyoto/2岚山日常2.jpg)
+![]({{ site.github.url }}/images/kyoto/2岚山日常2.jpg)
 
 # day3 禅寺篇
 
@@ -97,31 +97,31 @@ categories: trip
 
 大法院正好在搞【且坐喫茶】的活动，门票附送一份抹茶和甜点。面对着下面的风景，喝茶，冥想，感觉很不错。
 
-![]({{ site.url }}/images/kyoto/3大法院.jpg)
+![]({{ site.github.url }}/images/kyoto/3大法院.jpg)
 
-![]({{ site.url }}/images/kyoto/3大法院2.jpg)
+![]({{ site.github.url }}/images/kyoto/3大法院2.jpg)
 
 庭院前方有个茶室，名叫有邻轩，出自《论语》“德不孤，必有邻”。
 
-![]({{ site.url }}/images/kyoto/3大法院有邻轩.jpg)
+![]({{ site.github.url }}/images/kyoto/3大法院有邻轩.jpg)
 
 搜了一下，大法院所在的妙心寺是临济宗妙心寺派大本山，里面有48座小的塔头寺庙（相当于小弟），其中的退藏院紫藤花正在开放，就进去看看，没想到大超预期。退藏院的庭院设计很巧妙，还配套免费app，有中文介绍各个景点和和融合在其中的禅宗思想，让我印象深刻的是不二这个禅宗的概念。
 
-![]({{ site.url }}/images/kyoto/3退藏院.jpg)
+![]({{ site.github.url }}/images/kyoto/3退藏院.jpg)
 
-![]({{ site.url }}/images/kyoto/3退藏院紫藤.jpg)
+![]({{ site.github.url }}/images/kyoto/3退藏院紫藤.jpg)
 
 吃完中饭去源光庵转了一圈，本来是冲着网红景点打卡去的，没想这个地方也很有来头。
 
 源光庵最有名的景点是【领悟之窗】（圆），其实右边还有一个【困惑之窗】（方）
 
-![]({{ site.url }}/images/kyoto/3源光庵1.jpg)
+![]({{ site.github.url }}/images/kyoto/3源光庵1.jpg)
 
-![]({{ site.url }}/images/kyoto/3源光庵2.jpg)
+![]({{ site.github.url }}/images/kyoto/3源光庵2.jpg)
 
 旁边的庭院也挺好看。
 
-![]({{ site.url }}/images/kyoto/3源光庵3.jpg)
+![]({{ site.github.url }}/images/kyoto/3源光庵3.jpg)
 
 源光庵里纪念着关原之战前战死在伏见城的德川家武将鸟居元忠，所以里面有很多德川家的元素，也有伏见城之战的详细说明，此处不表。
 
@@ -133,39 +133,39 @@ categories: trip
 
 之前一次去日本的时候，姬路城正在大修，所以没有去，这次无论如何也要去了。昨天下了雨之后，天气大晴，买了西日本JR一日券，早起乘新快速列车到姬路站，出了站，就能看到矗立着的白鹭之城。下图是在三之丸广场拍的。
 
-![]({{ site.url }}/images/kyoto/4姬路城.jpg)
+![]({{ site.github.url }}/images/kyoto/4姬路城.jpg)
 
 网上找到的姬路城概览
 
-![]({{ site.url }}/images/kyoto/4姬路城总览.jpg)
+![]({{ site.github.url }}/images/kyoto/4姬路城总览.jpg)
 
 在入城口，看到有英文导览的服务，申请了一下，没想到服务中心很快就安排了一位志愿者为我单独导览。这位女士给我介绍了很多关于姬路城的知识，比如城的总体布局、各类防御设施、各种巧妙的诡计等等，听完之后，觉得姬路城真的是冷兵器时代登峰造极的城堡，John Snow要是有这么一座城，异鬼再怎么多也打不进来。
 
-![]({{ site.url }}/images/kyoto/4姬路城天守细节.jpg)
+![]({{ site.github.url }}/images/kyoto/4姬路城天守细节.jpg)
 
 内部存放铁炮、长枪的武具库
 
-![]({{ site.url }}/images/kyoto/4姬路城内部.jpg)
+![]({{ site.github.url }}/images/kyoto/4姬路城内部.jpg)
 
 姬路城天守阁顶部鸟瞰，往右可以看到濑户内海
 
-![]({{ site.url }}/images/kyoto/4姬路城鸟瞰.jpg)
+![]({{ site.github.url }}/images/kyoto/4姬路城鸟瞰.jpg)
 
 观察姬路城天守阁最佳的角度应该是西之丸，据说樱花时节美得不像话。
 
-![]({{ site.url }}/images/kyoto/4姬路城西之丸.jpg)
+![]({{ site.github.url }}/images/kyoto/4姬路城西之丸.jpg)
 
 西之丸旁边有个化妆橹，在里面了解到丰臣秀赖的正室千姬的后半生，也挺让人唏嘘的，此处不表。
 
 姬路城旁边有美术馆，里面正好有teamlab的展，看完不太能理解。美术馆前的树倒是生命力盎然。
 
-![]({{ site.url }}/images/kyoto/4姬路美术馆.jpg)
+![]({{ site.github.url }}/images/kyoto/4姬路美术馆.jpg)
 
 看完姬路城，时间还剩很多，于是去神户吃了点牛肉，然后上神户六甲山看夜景，上去的时候正好是魔逢时刻。
 
-![]({{ site.url }}/images/kyoto/4神户.jpg)
+![]({{ site.github.url }}/images/kyoto/4神户.jpg)
 
-![]({{ site.url }}/images/kyoto/4神户2.jpg)
+![]({{ site.github.url }}/images/kyoto/4神户2.jpg)
 
 # day5 旷野篇
 
@@ -173,17 +173,17 @@ categories: trip
 
 路线的开始是伏见稻荷大社，也会经过千本鸟居。
 
-![]({{ site.url }}/images/kyoto/5伏见.jpg)
+![]({{ site.github.url }}/images/kyoto/5伏见.jpg)
 
-![]({{ site.url }}/images/kyoto/5伏见鸟居.jpg)
+![]({{ site.github.url }}/images/kyoto/5伏见鸟居.jpg)
 
-![]({{ site.url }}/images/kyoto/5观景台.jpg)
+![]({{ site.github.url }}/images/kyoto/5观景台.jpg)
 
 后面就是按照徒步路线在深山老林里进行长途跋涉，又苦又累。没拍啥照片，还走错了两次路线，最后想抄捷径，结果捷径出口是寺庙，四点就关门了，不得不按原路折返，白走一个小时。这个时候想到，要是在旷野之息里，就可以随便从山上跳下去，乘滑翔伞飞到山下，而自己现在只能在山里汗流浃背、肌肉酸痛地兜兜转转。
 
-![]({{ site.url }}/images/kyoto/5东山徒步标记.jpg)
+![]({{ site.github.url }}/images/kyoto/5东山徒步标记.jpg)
 
-![]({{ site.url }}/images/kyoto/5东山徒步.jpg)
+![]({{ site.github.url }}/images/kyoto/5东山徒步.jpg)
 
 是日，总步数29331步，等效爬梯156层。
 
@@ -193,69 +193,69 @@ categories: trip
 
 google map上的台湾同胞推荐乘叡山电车前去，花的时间比公交车少。叡山电车是两节编组的绿皮小火车，在《有顶天家族》里，狸猫二哥的绝活就是变成叡山电车。从车站出来，沿着一条溪流顺流而下，很快就能来到琉璃光院排队等待处，第一眼所见，就是沁人心脾的绿。
 
-![]({{ site.url }}/images/kyoto/6琉璃光院.jpg)
+![]({{ site.github.url }}/images/kyoto/6琉璃光院.jpg)
 
 进门、买票。售票员给了一个袋子，里面有介绍页、抄经和原子笔。拾级而上，看到隐藏在绿色中的一幢二层小宅。
 
-![]({{ site.url }}/images/kyoto/6琉璃光院 (2).jpg)
+![]({{ site.github.url }}/images/kyoto/6琉璃光院 (2).jpg)
 
 游客的路线，是先上二楼进行抄经，然后再下楼，在琉璃之庭中进行观赏。抄的经文是“光明遍照十方世界，念佛众生摄取不舍”等，搜了一下，是净土宗《观经》中的经文，所以，这个院子应该信仰的是净土宗。
 
-![]({{ site.url }}/images/kyoto/6琉璃光院 (3).jpg)
+![]({{ site.github.url }}/images/kyoto/6琉璃光院 (3).jpg)
 
 琉璃之庭，侍者给买了茶点的游客上茶
 
-![]({{ site.url }}/images/kyoto/6琉璃光院 (4).jpg)
+![]({{ site.github.url }}/images/kyoto/6琉璃光院 (4).jpg)
 
 返回的时候，发现了玄关处的金鱼很肥硕。
 
-![]({{ site.url }}/images/kyoto/6琉璃光院 (1).jpg)
+![]({{ site.github.url }}/images/kyoto/6琉璃光院 (1).jpg)
 
 琉璃光院旁边还有一个法国画家的展览，布置的很精致，免费，值得一去。其实还可以买叡山电车一日通票去贵船神社玩，但是考虑到自己的腿还在恢复中，就没有去。
 
 下午跑到了南禅寺打卡，这个地方在《有顶天家族》里也算是常客了。查了一下发现，原来日本仿照宋朝五山十刹制度建立了日本的五山十刹，而南禅寺的地位则是高于五山十刹的“五山之上”，历经各种战火洗礼之后，现在的南禅寺是由德川家重建的。下图为南禅寺山门。
 
-![]({{ site.url }}/images/kyoto/6南禅寺三门.jpg)
+![]({{ site.github.url }}/images/kyoto/6南禅寺三门.jpg)
 
 南禅寺还有个景点叫水路阁，是明治时代用来给京都供水的水渠，虽然这个水渠是维新政府为了恶心跟德川家走的比较近的南禅寺建的，现在也算是一个景点了。
 
-![]({{ site.url }}/images/kyoto/6南禅寺水路阁.jpg)
+![]({{ site.github.url }}/images/kyoto/6南禅寺水路阁.jpg)
 
 南禅寺里也有自己的庭院，规模不是很大，里面有个一山国师塔，查了一下发现这个一山国师是元朝僧人，出使日本之后被日本天皇扣留了下来，强迫他做南禅寺的主持，死后被追赠国师称号。
 
-![]({{ site.url }}/images/kyoto/6南禅寺庭院.jpg)
+![]({{ site.github.url }}/images/kyoto/6南禅寺庭院.jpg)
 
 在京都逛了那么多寺庙，但是都没怎么碰到和尚，唯独南禅寺正好在搞活动，一帮僧人和民众在大殿里诵经。
 
-![]({{ site.url }}/images/kyoto/6南禅寺诵经.jpg)
+![]({{ site.github.url }}/images/kyoto/6南禅寺诵经.jpg)
 
 离南禅寺不远有银阁寺，来都来了就去逛了逛，特点是依山而建，巡游路线中需要上山下山，比较独特。
 
-![]({{ site.url }}/images/kyoto/6银阁寺 (2).jpg)
+![]({{ site.github.url }}/images/kyoto/6银阁寺 (2).jpg)
 
-![]({{ site.url }}/images/kyoto/6银阁寺 (1).jpg)
+![]({{ site.github.url }}/images/kyoto/6银阁寺 (1).jpg)
 
 银阁寺旁边就是哲学之路，樱花盛开的时候应该很漂亮
 
-![]({{ site.url }}/images/kyoto/6哲学之路.jpg)
+![]({{ site.github.url }}/images/kyoto/6哲学之路.jpg)
 
 晚上继续本着来都来了的原则，从鸭川出发，把白天一定人挤人的祇园和八坂神社跑了。
 
-![]({{ site.url }}/images/kyoto/6鸭川夜.jpg)
+![]({{ site.github.url }}/images/kyoto/6鸭川夜.jpg)
 
-![]({{ site.url }}/images/kyoto/6八坂神社 (2).jpg)
+![]({{ site.github.url }}/images/kyoto/6八坂神社 (2).jpg)
 
-![]({{ site.url }}/images/kyoto/6八坂神社 (1).jpg)
+![]({{ site.github.url }}/images/kyoto/6八坂神社 (1).jpg)
 
 八坂神社的纹章和织田家一样，都是木瓜纹。
 
-![]({{ site.url }}/images/kyoto/6八坂神社 (3).jpg)
+![]({{ site.github.url }}/images/kyoto/6八坂神社 (3).jpg)
 
 # day7 二条城篇
 
 早上乘公交车的时候，发现自己住的地方旁边就是本能寺，于是去里面逛了一下，不过没啥值得看的。
 
-![]({{ site.url }}/images/kyoto/7本能寺.jpg)
+![]({{ site.github.url }}/images/kyoto/7本能寺.jpg)
 
 《太阁立志传》中有两个地点是很特殊的，一个是京都，里面有御所（天皇所在的地方），另一个是京都上面的二条城，只要谁拿下了二条城，就是完成了“上洛”，可以挟天子以令诸侯，成为日本实际的统治者。现实中的京都御所和二条城其实不远，今天就打包一起逛了。
 
@@ -263,13 +263,13 @@ google map上的台湾同胞推荐乘叡山电车前去，花的时间比公交�
 
 ![]({{ site.github.url }}/images/kyoto/7仙洞御所(2).jpg)
 
-![]({{ site.url }}/images/kyoto/7仙洞御所 (1).jpg)
+![]({{ site.github.url }}/images/kyoto/7仙洞御所 (1).jpg)
 
 参观完仙洞御所后，步行30分钟就可以到达二条城。现在的二条城应该是德川家最后修建的，里面主要有本丸和二之丸两个建筑，目前本丸在维修，只有二之丸对外开放，而且还不允许在内部拍摄。总的来说，二条城到处散发着德川家的霸王之气。
 
-![]({{ site.url }}/images/kyoto/7二条城.jpg)
+![]({{ site.github.url }}/images/kyoto/7二条城.jpg)
 
-![]({{ site.url }}/images/kyoto/7二条城唐门细节.jpg)
+![]({{ site.github.url }}/images/kyoto/7二条城唐门细节.jpg)
 
 二之丸里面不能拍照，里面有大广间、黑书院、白书院等几个组成部分，挺有看头的。想到《真田丸》中德川家康和丰臣秀赖的会面应该就是大广间里举行的，也就是在那里，家康下定决心要把丰臣家斩草除根。
 
@@ -279,20 +279,20 @@ google map上的台湾同胞推荐乘叡山电车前去，花的时间比公交�
 
 桂离宫和仙洞御所一样也是一个回游式庭院，但是设计风格简约朴素，被认为是日本庭院中的杰作。语音导览中介绍了很多设计的小心思，时间仓促，感觉并没有把桂离宫的美拍摄出来。
 
-![]({{ site.url }}/images/kyoto/7桂离宫 (2).jpg)
+![]({{ site.github.url }}/images/kyoto/7桂离宫 (2).jpg)
 
-![]({{ site.url }}/images/kyoto/7桂离宫 (3).jpg)
+![]({{ site.github.url }}/images/kyoto/7桂离宫 (3).jpg)
 
-![]({{ site.url }}/images/kyoto/7桂离宫.jpg)
+![]({{ site.github.url }}/images/kyoto/7桂离宫.jpg)
 
-![]({{ site.url }}/images/kyoto/7桂离宫 (1).jpg)
+![]({{ site.github.url }}/images/kyoto/7桂离宫 (1).jpg)
 
 参观完桂离宫，整理了一番，便乘电车回家了。
 
-![]({{ site.url }}/images/kyoto/7京都站.jpg)
+![]({{ site.github.url }}/images/kyoto/7京都站.jpg)
 
 关西机场的日落。
 
-![]({{ site.url }}/images/kyoto/7KIX.jpg)
+![]({{ site.github.url }}/images/kyoto/7KIX.jpg)
 
 完。
