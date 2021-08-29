@@ -32,7 +32,7 @@ categories: 设计
 
 新的stylish配置:
 
-```css
+{% highlight css %}
     @namespace url(http://www.w3.org/1999/xhtml);
 
     @-moz-document url-prefix("about:reader?") {
@@ -46,7 +46,7 @@ categories: 设计
         }
 
     }
-```
+{% endhighlight %}
 
 我去掉了链接的下划线, 同时降低了链接的字体颜色的亮度和饱和度, 让链接不再那么出挑.
 
