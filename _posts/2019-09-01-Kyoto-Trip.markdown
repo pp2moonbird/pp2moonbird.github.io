@@ -2,7 +2,7 @@
 layout: post
 title: "2019年5月 日本京都游记（多图）"
 date : 2019-09-01 08:47:21 +8000
-categories: 游记
+categories: Travel
 ---
 
 五月初，我去日本京都玩了一周。选择京都是权衡兴趣点和难易度之后做的决定。
