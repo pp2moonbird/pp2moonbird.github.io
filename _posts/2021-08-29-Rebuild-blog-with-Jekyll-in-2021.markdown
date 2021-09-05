@@ -54,6 +54,7 @@ title: Awesome first post
 1的样例代码如下
 
 ```html
+{% raw %}
 {% for category in site.categories %}
 <h4>
   <div id="{{ category | first}}"> {{category | first}}</div>
@@ -70,6 +71,8 @@ title: Awesome first post
     {% endfor %}
   {% endfor %}
   </ul>
+{% endfor %}
+{% endraw %}
 ```
 
 在Jekyll中增加图片，需要做两件事
