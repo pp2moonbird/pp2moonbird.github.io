@@ -78,7 +78,7 @@ title: Awesome first post
 在Jekyll中增加图片，需要做两件事
 
 1. 将图片放置于`/images/`
-2. 在博客文章中应用自己站点的图片时需要使用`![]({{ site.github.url }}/images/.../some.jpg)`语法
+2. 在博客文章中应用自己站点的图片时需要使用`![]({% raw %}{{ site.github.url }}{% endraw %}/images/.../some.jpg)`语法
 3. 如果使用自己的域名，在`_config.yml`中配置自己的站点的域名即可
 
 最后是样式修改。我使用的是默认的minima主题，觉得已经满足我的审美要求，但是文章中的代码块没有使用好看的等宽字体，看了一下minima的样例站点，它使用的css是styles.css，而默认生成的站点是main.css。
