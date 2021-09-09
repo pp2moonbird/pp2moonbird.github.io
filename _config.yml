@@ -32,6 +32,7 @@ github_username:  pp2moonbird
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 permalink: /:title:output_ext
 google_analytics: UA-57609998-1
