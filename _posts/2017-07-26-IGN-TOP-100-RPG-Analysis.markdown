@@ -28,20 +28,20 @@ categories: 数据可视化
 
 首先来看一下榜单整体的情况。下图横坐标是入选游戏的首次发行年份，横跨了30年，纵坐标游戏是在榜单的排名，颜色是根据发布平台的公司来设置的。这张图只是为你提供一个大致的印象，不需要仔细看，我在文章最后有一个tableau public的工作簿，你可以互动式的查看这些信息。
 
-![ign-top-100-rpg-scatter-plot]({{ site.github.url }}/images/game/ign-top-100-rpg-scatter-plot.png)
+![ign-top-100-rpg-scatter-plot]({{ site.github.url }}/images/game/ign-top-100-rpg-scatter-plot.png){:loading="lazy"}
 
 接下来我们按照平台公司进行细分，这个时候，一些有趣的规律开始浮现出来了。譬如说，任天堂在1990-2000年间有着非常强势的地位，特别是SFC平台，除了入选的作品数量多之外，还占据了整个榜单冠军的位置，没错，就是Chrono Trigger（超时空之链）！然而，主机的RPG霸主地位从2000左右开始移交到了索尼。在榜单上还出现了已经消失的硬件平台厂商：世嘉。
 
-![rpg-scatter-by-family]({{ site.github.url }}/images/game/rpg-scatter-by-family.png)
+![rpg-scatter-by-family]({{ site.github.url }}/images/game/rpg-scatter-by-family.png){:loading="lazy"}
 
 下图是按照平台对上榜游戏的统计，如果是跨平台发售的游戏会被同时计入多个平台当中
-![top-rpg-count-by-platform]({{ site.github.url }}/images/game/top-rpg-count-by-platform.png)
+![top-rpg-count-by-platform]({{ site.github.url }}/images/game/top-rpg-count-by-platform.png){:loading="lazy"}
 
 接下来是对每个平台厂商的具体分析
 
 ## 任天堂 Nintendo
 
-![ign-top-rpg-100-nintendo]({{ site.github.url }}/images/game/ign-top-rpg-100-nintendo.png)
+![ign-top-rpg-100-nintendo]({{ site.github.url }}/images/game/ign-top-rpg-100-nintendo.png){:loading="lazy"}
 
 任天堂在RPG领域的成就可谓是高开低走，上图表现的非常清楚。高开表现在它的第二代主机SFC的巨大成功。16位主机带来了更强的画面和更好的音效，众多的RPG巨头，比如Square，Enix纷纷挖掘2D RPG的最大潜力，推出许多了广受好评的佳作。如果你再看上上面那张图，SFC是仅次于PC, PS后面第三多入选的游戏平台，并且摘得了整个榜单的金牌和银牌。
 
@@ -52,21 +52,21 @@ categories: 数据可视化
 ## 索尼 PlayStation
 
 Sony的主机事业一路发展都很迅猛。根据[vgchartz的数据](http://www.vgchartz.com/analysis/platform_totals/Hardware/Global/), PS2是世上最畅销的家用主机平台
-![sony-hardware-sales]({{ site.github.url }}/images/game/sony-hardware-sales.png)
+![sony-hardware-sales]({{ site.github.url }}/images/game/sony-hardware-sales.png){:loading="lazy"}
 
 就像上文讨论任天堂的部分所说，初代PS发售之初，就收到很多第三方游戏公司的支持，在这个榜单中也反映在PS具有非常多的上榜游戏。
 
 总体来看，PS阵营是整个RPG游戏的中流砥柱，在PS家族上发布的游戏不论在时间和榜单排行上都分布的非常均匀。但是PS还是有一个问题：后期好评的游戏都是跨平台的。比如评分最高的近期游戏巫师3，就是PS4, XBOXONE, PC跨平台发售的。如果将平台独占作为一个维度进行区分的话，PS系列的排行的中位数就下降到58.5了。
-![ign-top-100-rpg-sony]({{ site.github.url }}/images/ign-top-100-rpg-sony.png)
+![ign-top-100-rpg-sony]({{ site.github.url }}/images/ign-top-100-rpg-sony.png){:loading="lazy"}
 
 ## 微软 Xbox
 
-![ign-top-100-rpg-xbox]({{ site.github.url }}/images/game/ign-top-100-rpg-xbox.png)
+![ign-top-100-rpg-xbox]({{ site.github.url }}/images/game/ign-top-100-rpg-xbox.png){:loading="lazy"}
 
 微软独占的上榜作品只有5作。
 
 ## PC
-![ign-top-100-rpg-pc]({{ site.github.url }}/images/game/ign-top-100-rpg-pc.png)
+![ign-top-100-rpg-pc]({{ site.github.url }}/images/game/ign-top-100-rpg-pc.png){:loading="lazy"}
 
 PC部分有这么几个特征
 
@@ -77,7 +77,7 @@ PC部分有这么几个特征
 
 ## 游戏平台总结
 
-![platform-by-year]({{ site.github.url }}/images/game/platform-by-year.png)
+![platform-by-year]({{ site.github.url }}/images/game/platform-by-year.png){:loading="lazy"}
 
 把数据整合起来，就能看到一些在时间上的趋势，总的来说，任天堂在SFC时代表现最抢眼，PS从诞生以来，发挥都很稳定。微软最近有些疲软。PC在2000年有个爆发，最近也有上升的趋势。
 
@@ -85,11 +85,11 @@ PC部分有这么几个特征
 
 ## 日本与西方游戏公司
 
-![japan-vs-western]({{ site.github.url }}/images/game/japan-vs-western.png)
+![japan-vs-western]({{ site.github.url }}/images/game/japan-vs-western.png){:loading="lazy"}
 
 我把游戏公司按照日本和西方进行了聚合，整体上看日本具有微弱的优势。
 
-![japan-vs-western-trend]({{ site.github.url }}/images/game/japan-vs-western-trend.png)
+![japan-vs-western-trend]({{ site.github.url }}/images/game/japan-vs-western-trend.png){:loading="lazy"}
 
 但实际上这种优势主要体现在90年早期日本主机游戏上，从2000年开始，基本上日本和西方上榜的游戏数量是接近的。从平台的角度看，入选的日本游戏基本都是发行在家用主机上，而西方游戏主要在PC上发行，并且在最近几年跨平台到了主机上。
 
@@ -97,36 +97,36 @@ PC部分有这么几个特征
 
 Square, Enix, 以及两家公司合并后成立的Square-Enix曾经是RPG领域当之无愧的领导者，但是很尴尬的是，从2007年之后就再也没有新的游戏上榜了。最后一部上榜作品是最终幻想12，最近刚刚复刻到PS4上，结果评价比最终幻想15还要好。顺便提一下，勇者斗恶龙系列都是外包给别的公司开发的，比如Chunsoft。
 
-![square-enix]({{ site.github.url }}/images/game/square-enix.png)
+![square-enix]({{ site.github.url }}/images/game/square-enix.png){:loading="lazy"}
 
 Bioware是欧美RPG的巨头
 
-![bioware]({{ site.github.url }}/images/game/bioware.png)
+![bioware]({{ site.github.url }}/images/game/bioware.png){:loading="lazy"}
 
 下图挑选了一些新上榜的公司或者IP，FromSoftware的魂系列和CD Project RED的巫师系列表现最抢眼。入榜的新游戏中，传说之下，星露谷物语和黑暗地牢都是独立游戏，能取得这样的好成绩非常厉害了。
 
-![new-developer-and-ip]({{ site.github.url }}/images/game/new-developer-and-ip.png)
+![new-developer-and-ip]({{ site.github.url }}/images/game/new-developer-and-ip.png){:loading="lazy"}
 
 ## 游戏系列
 
 这里把入榜多次的游戏系列列了出来，颜色越深，说明排名越靠前
-![top-rpg-game-series]({{ site.github.url }}/images/game/top-rpg-game-series.png)
+![top-rpg-game-series]({{ site.github.url }}/images/game/top-rpg-game-series.png){:loading="lazy"}
 
 ## 制作人：松野泰己
 
 在整个大公司都可能只上榜一两作的榜单上，有一位制作人制作或参与了5部作品入榜，并且排名都在40位之前，这个制作人就是松野泰己。松野泰己的游戏特点是他设计的架空世界观，入榜的最终幻想战略版，放浪冒险谭，最终幻想12都是基于伊瓦利斯世界。最近，网游最终幻想14的4.1版本据说也要搞一个RETURN OF IVALICE的大型副本。
 
-![matsuno]({{ site.github.url }}/images/game/matsuno.png)
+![matsuno]({{ site.github.url }}/images/game/matsuno.png){:loading="lazy"}
 
 遗憾的是，他在担当最终幻想12制作人的时候，称病离开了Square-Enix，后面辗转与各家游戏公司，但是没有更亮眼的新作出现。
 
 # 榜单分析 - 游戏部分
 
 榜单中前20名
-![top-20-rpg]({{ site.github.url }}/images/game/top-20-rpg.png)
+![top-20-rpg]({{ site.github.url }}/images/game/top-20-rpg.png){:loading="lazy"}
 
 最近十年发售的作品
-![recent-10-years]({{ site.github.url }}/images/game/recent-10-years.png)
+![recent-10-years]({{ site.github.url }}/images/game/recent-10-years.png){:loading="lazy"}
 
 ## 分析
 
@@ -140,9 +140,9 @@ Bioware是欧美RPG的巨头
 
 下面的图表是基于[vgcharts每年的百大游戏销售排行](http://www.vgchartz.com/yearly/2017/Global/)。日本的数据从1990年开始统计，而全球的数据从2005年开始统计
 
-![best-selling-games-japan]({{ site.github.url }}/images/game/best-selling-games-japan.png)
+![best-selling-games-japan]({{ site.github.url }}/images/game/best-selling-games-japan.png){:loading="lazy"}
 
-![best-selling-games-worldwide]({{ site.github.url }}/images/game/best-selling-games-worldwide.png)
+![best-selling-games-worldwide]({{ site.github.url }}/images/game/best-selling-games-worldwide.png){:loading="lazy"}
 
 虽然RPG在日本一直处于领先地位，但是最近也被动作游戏超越了。而在全球范围内，体育，动作和射击游戏的销量超过RPG一倍多。游戏的销量一定会改变游戏制作公司将来制作的倾向。
 
