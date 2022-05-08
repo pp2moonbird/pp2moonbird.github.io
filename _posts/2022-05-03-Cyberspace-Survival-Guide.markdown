@@ -23,7 +23,7 @@ Youtube是个好东西，里面有很多好的内容，但问题是它有首页�
 
 * 对策1：使用rss阅读器查看Youtube频道
 
-获取主动权的第一个办法是把无限的列表变成有限的列表，使用rss阅读器（如[feedly](feedly.com)）可以订阅各个youtube频道，这样不登陆youtube也能获得各个频道的更新，同时不会掉入到youtube的无限推送的陷阱中。
+获取主动权的第一个办法是把无限的列表变成有限的列表，使用rss阅读器（如[feedly](https://feedly.com)）可以订阅各个youtube频道，这样不登陆youtube也能获得各个频道的更新，同时不会掉入到youtube的无限推送的陷阱中。
 
 * 对策2：使用unhook浏览器插件来删除Youtube推荐功能
 
