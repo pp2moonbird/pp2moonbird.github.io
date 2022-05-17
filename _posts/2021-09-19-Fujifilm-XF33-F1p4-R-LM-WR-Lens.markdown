@@ -64,7 +64,11 @@ XF33 F1.4的全称是XF33mm F1.4 R LM WR，同样是一支等效焦距为50mm的
 
 根据Nikon的堆栈式背照式CMOS[新闻稿](https://www.nikon.com/news/2021/0303_cmos_01.htm)，Stacked BSI CMOS应该会带来更快的连拍速度以及更好的动态范围。期待下一代的X-Trans传感器也能带来类似的优点。
 
+---
 
+建了一个关于图表的公众号sillycharts，有兴趣的朋友可以关注一波，更新频率会比主力博客勤快些，也方便互动。
+
+![sillycharts-qr]({{ site.github.url }}/images/sillycharts-qr.jpg){:loading="lazy"}
 
 
 

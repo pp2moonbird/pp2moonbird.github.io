@@ -81,12 +81,14 @@ powershell -command "&{$p='HKCU:SOFTWARE\Microsoft\Windows\CurrentVersion\Explor
 
 有的时候我会访问一些繁体中文的博客，比如[电脑玩物](https://www.playpcesor.com/)（数字工具和效率）以及[王孟源](https://blog.udn.com/MengyuanWang/article)（国际政治），阅读时还是用插件转换成简体字后更方便。这个插件的好处是一点权限都没有要，非常的干净，让人放心。
 
-![firefox-addons]({{ site.github.url }}/images/cyber/addons.png){:loading="lazy"}
-
 ### 总结
 
 以上就是一些数字生活断舍离的方法。简单来说，就是通过各种小工具和软件，减少噪音。
 
+![firefox-addons]({{ site.github.url }}/images/cyber/addons.png){:loading="lazy"}
 
+---
 
+建了一个关于图表的公众号sillycharts，有兴趣的朋友可以关注一波，更新频率会比主力博客勤快些，也方便互动。
 
+![sillycharts-qr]({{ site.github.url }}/images/sillycharts-qr.jpg){:loading="lazy"}

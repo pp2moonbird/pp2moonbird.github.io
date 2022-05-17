@@ -159,3 +159,9 @@ Bioware是欧美RPG的巨头
 # 全部榜单
 
 <iframe src="https://public.tableau.com/views/IGNTop100RPGs/rpg?:showVizHome=no&:embed=true" frameborder="0" height="600px" width="100%"></iframe>
+
+---
+
+建了一个关于图表的公众号sillycharts，有兴趣的朋友可以关注一波，更新频率会比主力博客勤快些，也方便互动。
+
+![sillycharts-qr]({{ site.github.url }}/images/sillycharts-qr.jpg){:loading="lazy"}

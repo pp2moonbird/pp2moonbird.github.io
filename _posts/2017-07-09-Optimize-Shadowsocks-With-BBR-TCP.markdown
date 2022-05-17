@@ -91,3 +91,9 @@ BBR-TCP是google研究出来的TCP阻塞算法，开启之后有明显的性能�
 # 总结
 
 以上就是安装，使用和优化shadowsocks的一些经验。最近评论服务多说关了，disqus太重懒得装，欢迎来[twitter](https://twitter.com/pp2moonbird/status/883884549922365440)讨论吧。
+
+---
+
+建了一个关于图表的公众号sillycharts，有兴趣的朋友可以关注一波，更新频率会比主力博客勤快些，也方便互动。
+
+![sillycharts-qr]({{ site.github.url }}/images/sillycharts-qr.jpg){:loading="lazy"}
