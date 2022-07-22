@@ -189,7 +189,6 @@ GEM
     jekyll-theme-modernist (0.2.0)
       jekyll (> 3.5, < 5.0)
       jekyll-seo-tag (~> 2.0)
-    jekyll-theme-persephone (0.3.2)
     jekyll-theme-primer (0.6.0)
       jekyll (> 3.5, < 5.0)
       jekyll-github-metadata (~> 2.9)
@@ -260,7 +259,7 @@ GEM
     thread_safe (0.3.6)
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
-    tzinfo (1.2.9)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     unf (0.1.4)
       unf_ext
@@ -274,7 +273,8 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 219)
   jekyll-feed (~> 0.12)
-  jekyll-theme-persephone
+  jekyll-sitemap (~> 1.4.0)
+  minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
